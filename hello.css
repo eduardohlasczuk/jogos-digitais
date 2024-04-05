@@ -1,0 +1,20 @@
+body{
+    background-color: #305050;
+    text-align: center;
+    color: white;
+}
+ .inicio{
+  border-bottom: 1px solid grey;
+ }
+.Meio{
+  color: #E6A500;
+  
+}
+
+.css{
+    color: #E6A500;
+}
+
+.fim{
+  border-bottom:  1px solid grey;
+}
